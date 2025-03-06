@@ -1,6 +1,9 @@
-## Olá, sou Gregório Lotz 👋
-Cursando Ciência da Computação na UNIFIL Londrina 🎓
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/gregoriounifil)
+## Olá, sou Gregório Lotz 👋  
+Cursando Ciência da Computação na UNIFIL Londrina 🎓  
+
+GitHub Institucional:
+
+[![GitHub Institucional](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/gregoriounifil)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriolotz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
